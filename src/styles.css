@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.activeGreen {
+  color: green;
+}
+.activeRed {
+  color: red;
+}
+.active {
+  font-weight: bold;
+}
+.inputClass {
+  width: 70%;
+  height: 5vh;
+  border-radius: 8px;
+  border-color: rgb(80, 231, 231);
+  margin: 35px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
